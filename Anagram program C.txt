@@ -2,7 +2,7 @@
 #include<string.h>
 char* rem_alph(char* s);
 char* convert_case(char* s);
-
+char* bub_sort(char* s);
 int main()
 {
         char s1[30],s2[30];
